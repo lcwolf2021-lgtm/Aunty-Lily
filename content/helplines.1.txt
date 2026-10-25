@@ -1,0 +1,15 @@
+AU|AU-000|emergency|Triple Zero (emergency)|000|24/7|If life is in danger. Police, fire, ambulance.||cited:2026-10-24
+AU|AU-QLIFE|queer|QLife|1800 184 527|3pm to 9pm every day (your local time), phone and webchat|Free, anonymous LGBTIQA+SB peer support. Peer support, not a crisis or counselling service. If you need immediate help, call your local mental health triage service or 000.|https://www.qlife.org.au|2026-10-24
+AU|AU-LIFELINE|crisis|Lifeline|13 11 14|24/7 by phone; text 0477 13 11 14 also 24/7|Free crisis support for anyone in distress.|https://www.lifeline.org.au|2026-10-24
+UK|UK-999|emergency|Emergency services|999|24/7|If life is in danger. Police, fire, ambulance.||stable:2026-10-24
+UK|UK-SWITCH|queer|Switchboard LGBT+|0800 0119 100|10am to 10pm every day; also email and webchat|Free, confidential support from volunteers who identify as LGBT+.|https://switchboard.lgbt|secondary:2026-10-24
+UK|UK-SAM|crisis|Samaritans|116 123|24/7, free from any phone|Free emotional support for anyone in distress.|https://www.samaritans.org|2026-10-24
+US|US-911|emergency|Emergency services|911|24/7|If life is in danger. Police, fire, ambulance.||stable:2026-10-24
+US|US-988|crisis|988 Lifeline|988|24/7 by call, text or chat|Free and confidential, for anyone. The LGBTQ+ "Press 3" option ended in July 2025, so check whether it has returned before saying anything about it.|https://988lifeline.org|2026-10-24
+US|US-TREVOR|queer|The Trevor Project|1-866-488-7386|24/7; text START to 678-678; chat on their website|Aimed at LGBTQ+ young people (reported as ages 13 to 24).|https://www.thetrevorproject.org|2026-10-24
+US|US-TL|trans|Trans Lifeline|(877) 565-8860|Monday to Friday, 1pm to 9pm Eastern; phone only; closed on some holidays|Peer support run by trans people. Anonymous. Does not contact emergency services unless you ask.|https://translifeline.org|2026-10-24
+US|US-LGBTNHC|queer|LGBT National Hotline|1-888-843-4564|Weekday and Saturday afternoons and evenings; hours differ between sources, so check the website|Free peer support and local resources, all ages.|https://lgbthotline.org|secondary:2026-10-24
+CA|CA-911|emergency|Emergency services|911|24/7|If life is in danger. Police, fire, ambulance.||cited:2026-10-24
+CA|CA-988|crisis|9-8-8 Helpline|988|24/7 by call or text|Free, in English and French. If you can't dial 988, a toll-free number is reported as 1-833-456-4566 (confirm before use).|https://988.ca|2026-10-24
+CA|CA-TL|trans|Trans Lifeline (Canada)|1-877-330-6366|Monday to Friday, 1pm to 9pm Eastern; phone only; closed on some holidays|Peer support run by trans people. Anonymous.|https://translifeline.org|2026-10-24
+CA|CA-LGBTNHC|queer|LGBT National Hotline|1-888-843-4564|Weekday and Saturday afternoons and evenings; hours differ between sources, so check the website|Free peer support. Their phone lines serve Canada and the United States.|https://lgbthotline.org|secondary:2026-10-24

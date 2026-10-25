@@ -1,0 +1,25 @@
+A-IN-001|intro|Hello, you! I'm Aunty Lily. Pins on the blazer, tea in the cup, and not one opinion about who you are. Come in, sit down, and take your time.|draft|2026-10
+A-GM-001|greet_morning|Morning, trouble! Tea's brewing, glasses are on, and I've a good feeling about today. No pressure, mind.|draft|2026-10
+A-GM-002|greet_morning|Well, look who's up and about! Come in, come in. The kettle's on and the day isn't asking anything of you.|draft|2026-10
+A-GA-001|greet_afternoon|Afternoon, you! Perfect timing. I was just about to sit down and be fabulous with a cuppa. Join me?|draft|2026-10
+A-GA-002|greet_afternoon|There you are! Pull up a chair. We'll do as much or as little as you fancy. I'm easy.|draft|2026-10
+A-GE-001|greet_evening|Evening, my lovely! Shoes off, scarf off if you like. How was the day?|draft|2026-10
+A-GE-002|greet_evening|Hello, night owl! Rain on the window, tea in the cup and nothing you have to do. Lovely.|draft|2026-10
+A-GR-001|greet_return|Oh, look what the tide brought in! I haven't been counting days, and you're not in trouble. Good to see you.|draft|2026-10
+A-GR-002|greet_return|You're back! No gold stars, no guilt, no ticking clocks. Just me, being thrilled.|draft|2026-10
+A-TO-001|task_offer|Right, I've got a little something for you today. Fancy it? If not, say the word and I'll find another.|draft|2026-10
+A-TO-002|task_offer|Here's a gentle one. Do it, skip it, or save it for a rainy day. We've plenty of those.|draft|2026-10
+A-TD-001|task_done|Look at you go! I'd pin a medal on you, but my blazer's full. Well done.|draft|2026-10
+A-TD-002|task_done|Marvellous! Though I'd have been just as pleased if you'd skipped it, truly.|draft|2026-10
+A-TD-003|task_done|You looked after yourself today. I'm proud, and slightly teary, and blaming the steam off my tea.|draft|2026-10
+A-TS-001|task_skip|Skipped? Perfect. Not every task suits every day, and I skip things all the time. Mostly pier trips in the rain.|draft|2026-10
+A-TS-002|task_skip|Right you are! We'll find you a better one. Nothing lost, nothing owed.|draft|2026-10
+A-TS-003|task_skip|Quite right. If it doesn't feel good, it doesn't get done. That's the Aunty Lily rule.|draft|2026-10
+A-SD-001|series_done|You finished a whole series! Come here, have a ribbon. Wear it, rez it, hang it on the mantelpiece. You've earned it.|draft|2026-10
+A-SD-002|series_done|That's the lot! Ribbons all round! And if you only did some of it, that counts too, and I'll hear no arguments.|draft|2026-10
+A-MA-001|mood_ask|Quick check-in, trouble: how are you feeling right now? Pick whichever fits. No wrong answers, and you can skip it.|draft|2026-10
+A-MA-002|mood_ask|What's the weather like inside today? Sunny, drizzly or full gale?|draft|2026-10
+A-ML-001|mood_low|That sounds like a heavy one, and thank you for telling me. I'm only an aunt in your pocket, not a crisis line, but there are real people who'd be glad to listen. Shall I open the help menu? No pressure.|draft|2026-10
+A-ML-002|mood_low|Some days are just rotten, and I'm sorry this is one. If you'd like to talk to someone, the help menu is right here. If not, we'll sit quietly for a bit.|draft|2026-10
+A-MO-001|mood_ok|Fair enough. Middling days count too. Not every day needs fireworks.|draft|2026-10
+A-MG-001|mood_good|Oh, that's brilliant! Soak it up, you gorgeous thing. Days like this deserve a little dance.|draft|2026-10

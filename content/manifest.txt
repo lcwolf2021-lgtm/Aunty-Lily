@@ -1,0 +1,16 @@
+content|0.7.0
+file|aunty.1.txt|48f60d90|3391
+file|aunty.2.txt|ec774e32|2758
+file|cards_flags.1.txt|71922e03|3145
+file|cards_friend.1.txt|fad4a024|3173
+file|cards_friend.2.txt|7356b388|3465
+file|cards_identity.1.txt|b53265a8|3173
+file|cards_identity.2.txt|a570fffc|3452
+file|cards_identity.3.txt|6e8acf50|536
+file|faq.1.txt|744a0b00|3228
+file|faq.2.txt|d0f1186c|2274
+file|faq_identity.1.txt|e569a72d|3323
+file|faq_identity.2.txt|05319402|2018
+file|helplines.1.txt|5b0a24f8|2927
+file|series.1.txt|3fd989bd|134
+file|tasks_SD.1.txt|fd1a267a|1293

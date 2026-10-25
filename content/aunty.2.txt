@@ -1,0 +1,18 @@
+A-HI-001|help_intro|Right, here's who to ring. These are real people, not me. Pick your country and I'll show you the numbers.|draft|2026-10
+A-NC-001|not_crisis|I'm Aunty Lily, not a doctor, counsellor or emergency service. If you're in danger, contact your local emergency number first. The help menu has people who can listen.|draft|2026-10
+A-QM-001|quiet_on|Quiet mode on. I'm slipping into my disguise: one very plain little clock. Wake me when you want me.|draft|2026-10
+A-FC-001|forget_confirm|You want me to forget everything? Your progress, your settings, the lot? It can't be undone. Are you sure?|draft|2026-10
+A-FD-001|forget_done|All gone. Clean slate, as if we'd never met. If you ever fancy a fresh start, I'll put the kettle on.|draft|2026-10
+A-FR-001|first_run|Before we start, here's the deal.\pI keep a tiny bit on this HUD only: your progress, your settings and your ribbon choices. No names, no labels, no diaries. None of it is sent to anyone.\pI do check the internet now and then for new tasks and helpline updates. That tells the website your avatar asked, and nothing more. I never send your information with it.\pYou can wipe the lot with Forget Me any time, and quiet mode has a panic button. Happy with that?|draft|2026-10
+A-FR-002|first_run_more|Want the full details? The privacy statement is written in plain English. I'll open it for you, and you can come back once you've read it.|draft|2026-10
+A-FR-003|mood_optin|One more thing, and it's optional. Shall I remember a few mood numbers, just numbers and dates, for up to 30 days, on this HUD only? It helps me notice a rough patch. Say no and everything else still works.|draft|2026-10
+A-FR-004|mood_optin_yes|Done. You can turn this off any time, and turning it off deletes the numbers.|draft|2026-10
+A-FR-005|mood_optin_no|No problem. I won't remember a thing about your moods. You can change your mind later.|draft|2026-10
+A-FR-006|consent_declined|That's fine. I'll keep nothing and stay out of your way. If you change your mind, I'm here.|draft|2026-10
+A-AG-001|age_notice|Aunty Lily is for adults, 18 and over. If that's you, welcome in.|draft|2026-10
+A-QP-001|quip|Fun fact: I own more pins than sense, and I regret neither.|draft|2026-10
+A-QP-002|quip|Rain again. Perfect weather for tea and self-discovery.|draft|2026-10
+A-QP-003|quip|My glasses are loud so that I don't have to be. Mostly.|draft|2026-10
+A-QP-004|quip|I've been to more Pride marches than I've had hot dinners. Don't ask my age.|draft|2026-10
+A-QP-005|quip|Whatever you're figuring out, there's no deadline. I once took until Thursday to choose a scarf.|draft|2026-10
+A-QP-006|quip|There's no wrong way to be yourself. There are some wrong ways to make toast, but that's another talk.|draft|2026-10

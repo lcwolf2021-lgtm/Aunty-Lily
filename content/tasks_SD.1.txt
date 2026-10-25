@@ -1,0 +1,7 @@
+T-SD-001|SD|1|Put the kettle on, or pour yourself a glass of water. Drink it slowly. That's it. That's the whole task. Nothing to figure out today.|draft|2026-10
+T-SD-002|SD|2|Think of one thing from today that made you smile. A cat, a sandwich, a song, a surprisingly good parking spot. It doesn't have to mean anything.|draft|2026-10
+T-SD-003|SD|3|Next time you're alone, try saying your name out loud. Or a name you've been curious about. See how it sits. You don't have to keep it, change it, or tell a soul.|draft|2026-10
+T-SD-004|SD|4|Pick the song that makes you feel most like you and play it. Loudly, if the walls allow. Dance, hum or just sit with it. Nobody's marking you.|draft|2026-10
+T-SD-005|SD|5|Think of three words you'd like to be true of you. Words, not labels. Keep them in your head or on paper only you will see. Rip it up after if you like.|draft|2026-10
+T-SD-006|SD|6|Notice one thing you do just because you like it, not because anyone expects it. A hobby, a snack, how you dress when no one's looking. That's a clue about you, and I do love a clue.|draft|2026-10
+T-SD-007|SD|7|Give yourself five minutes with something that feels like you: a book, a playlist, a walk, a show. Then ask yourself what you enjoyed about it. No wrong answers, no deadline.|draft|2026-10
